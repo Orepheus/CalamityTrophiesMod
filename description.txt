@@ -1,0 +1,3 @@
+Calamity Trophies adds two craftable by hand trophy versions of the Rock and Terminus from Calamity.
+
+The recipe is one item frame, and the item itself. It can be uncrafted as well.

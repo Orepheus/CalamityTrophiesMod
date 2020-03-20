@@ -1,0 +1,3 @@
+displayName = Calamity Trophies
+author = Orepheus
+version = 0.1
